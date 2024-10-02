@@ -13,7 +13,7 @@ This Python application processes training data from a `.json` file and generate
 1. Clone this repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/aarushiapte/application-developer-assignment.git
    cd <repository_folder>
 2. Ensure the trainings.txt file is in the same directory as the script.
 3. Run the script:
